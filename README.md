@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omareka
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ...html..css..javasicrept
+- 🌱 I’m currently learning ...html..css..
 - 💞️ I’m looking to collaborate on ...exercises how to code &how to convert an idea into code
 -
 - 📫 How to reach me ...omar-sidi@outlook.sa
